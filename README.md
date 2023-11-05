@@ -8,16 +8,36 @@
 * 🌎 My portfolio: <a href="dominiqueboerner.me">dominiqueboerner.me</a> (multiple languages available)
 * 📧 How to reach me: <a href="dominiquebr46@gmail.com">dominiquebr46@gmail.com</a>
 
-
 <h3>Languages & Skills</h3>
 
-* Java
-* NodeJS, NestJS & Express 
-* Angular, React & Vue 3
-* UX/UI
+<div>
+  <a href="https://www.w3schools.com/java/">
+    <img height="80" src="https://raw.githubusercontent.com/dominique-boerner/dominique-boerner/main/java.png" />
+  </a>
+  <a href="https://nodejs.org/en">
+    <img height="80" src="https://raw.githubusercontent.com/dominique-boerner/dominique-boerner/main/nodejs.png" />
+  </a>
+  <a href="https://nestjs.com/">
+    <img height="80" src="https://raw.githubusercontent.com/dominique-boerner/dominique-boerner/main/nestjs.png" />
+  </a>
+  <a href="https://vuejs.org/">
+    <img height="80" src="https://raw.githubusercontent.com/dominique-boerner/dominique-boerner/main/vue.png" />
+  </a>
+  <a href="https://react.dev/">
+    <img height="80" src="https://raw.githubusercontent.com/dominique-boerner/dominique-boerner/main/science.png" />
+  </a>
+  <a href="https://angular.io/">
+    <img height="80" src="https://raw.githubusercontent.com/dominique-boerner/dominique-boerner/main/angular.png" />
+  </a>
+</div>
 
 <h3>Tools</h3>
 
-* IntelliJ
-* Figma
-
+<div>
+  <a href="https://www.figma.com/">
+    <img height="80" src="https://raw.githubusercontent.com/dominique-boerner/dominique-boerner/main/figma.png" />
+  </a>
+  <a href="https://www.jetbrains.com/idea/">
+    <img height="80" src="https://raw.githubusercontent.com/dominique-boerner/dominique-boerner/main/intellij.png" />
+  </a>
+</div>
