@@ -1,5 +1,5 @@
 <h1 align="center">Hello, i'm Dominique! 👋</h1>
-<img height="100" src="https://raw.githubusercontent.com/dominique-boerner/dominique-boerner/main/duck.gif" />
+<img height="200" src="https://raw.githubusercontent.com/dominique-boerner/dominique-boerner/main/duck.gif" />
 
 * 🤓 I'm 25 years old and from Germany
 * 🦆 I love ducks
