@@ -12,22 +12,22 @@
 
 <div>
   <a href="https://www.w3schools.com/java/">
-    <img height="80" src="https://raw.githubusercontent.com/dominique-boerner/dominique-boerner/main/java.png" />
+    <img height="80" src="https://raw.githubusercontent.com/dominique-boerner/dominique-boerner/main/assets/java.png" />
   </a>
   <a href="https://nodejs.org/en">
-    <img height="80" src="https://raw.githubusercontent.com/dominique-boerner/dominique-boerner/main/nodejs.png" />
+    <img height="80" src="https://raw.githubusercontent.com/dominique-boerner/dominique-boerner/main/assets/nodejs.png" />
   </a>
   <a href="https://nestjs.com/">
-    <img height="80" src="https://raw.githubusercontent.com/dominique-boerner/dominique-boerner/main/nestjs.png" />
+    <img height="80" src="https://raw.githubusercontent.com/dominique-boerner/dominique-boerner/main/assets/nestjs.png" />
   </a>
   <a href="https://vuejs.org/">
-    <img height="80" src="https://raw.githubusercontent.com/dominique-boerner/dominique-boerner/main/vue.png" />
+    <img height="80" src="https://raw.githubusercontent.com/dominique-boerner/dominique-boerner/main/assets/vue.png" />
   </a>
   <a href="https://react.dev/">
-    <img height="80" src="https://raw.githubusercontent.com/dominique-boerner/dominique-boerner/main/science.png" />
+    <img height="80" src="https://raw.githubusercontent.com/dominique-boerner/dominique-boerner/main/assets/science.png" />
   </a>
   <a href="https://angular.io/">
-    <img height="80" src="https://raw.githubusercontent.com/dominique-boerner/dominique-boerner/main/angular.png" />
+    <img height="80" src="https://raw.githubusercontent.com/dominique-boerner/dominique-boerner/main/assets/angular.png" />
   </a>
 </div>
 
@@ -35,9 +35,9 @@
 
 <div>
   <a href="https://www.figma.com/">
-    <img height="80" src="https://raw.githubusercontent.com/dominique-boerner/dominique-boerner/main/figma.png" />
+    <img height="80" src="https://raw.githubusercontent.com/dominique-boerner/dominique-boerner/main/assets/figma.png" />
   </a>
   <a href="https://www.jetbrains.com/idea/">
-    <img height="80" src="https://raw.githubusercontent.com/dominique-boerner/dominique-boerner/main/intellij.png" />
+    <img height="80" src="https://raw.githubusercontent.com/dominique-boerner/dominique-boerner/main/assets/intellij.png" />
   </a>
 </div>
