@@ -3,7 +3,7 @@
 
 * 🤓 I'm 25 years old and from Germany
 * 🦆 I love ducks
-* 🖥️ I'm currently working on <a href="https://github.com/dominique-boerner/OwlSpect">OwlSpect</a>, a small hardware monitoring tool
+* 🖥️ I'm currently working on <a href="https://github.com/foxdeck/Fox-Deck">Foxdeck</a>, a note-organizing software for students
 * 🐕 I've also developed an unofficial REST API for the Tractive Animal GPS Trackers: <a href="https://github.com/dominique-boerner/unofficial-tractive-rest-api">unofficial-tractive-rest-api</a>
 * 🌎 My portfolio: <a href="dominiqueboerner.me">dominiqueboerner.me</a> (multiple languages available)
 * 📧 How to reach me: <a href="dominiquebr46@gmail.com">dominiquebr46@gmail.com</a>
